@@ -654,14 +654,10 @@ DEFINITIONS IMPLICIT TAGS ::= BEGIN
 	}
 
 	ImageDataFormatCode ::= ENUMERATED {
-		unknown (0),
-		other (1),
+		
 		jpeg (2),
 		jpeg2000Lossy (3),
-		jpeg2000Lossless (4),
-		png (5),
-		pgm (6),
-		ppm (7)
+		jpeg2000Lossless (4)
 	}
 
 	ImageDataFormatExtensionBlock ::= SEQUENCE {
