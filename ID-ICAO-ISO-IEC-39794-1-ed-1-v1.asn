@@ -1,4 +1,4 @@
-id-icao-iso-iec-39794-1-ed-1-v1 { joint-iso-itu-t(2) international-organizations(23) icao(136) mrtd(1) iso-iec-39794(39794) part-1(1) ed-1(1) v1(1) iso-iec-39794-1(0) }
+ID-ICAO-ISO-IEC-39794-1-ed-1-v1 { joint-iso-itu-t(2) international-organizations(23) icao(136) mrtd(1) iso-iec-39794(39794) part-1(1) ed-1(1) v1(1) iso-iec-39794-1(0) }
 
 -- This ASN.1 module is derived from ISO-IEC-39794-1-ed-1-v1
 
